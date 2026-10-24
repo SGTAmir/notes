@@ -1,1 +1,2 @@
 First note.
+Today, I'm learning Git. The second line. 
