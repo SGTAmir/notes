@@ -5,4 +5,4 @@ Fourth line, for "--amnned" testing!
 This new line, ONLY live in branch "test-feature". branch test-feature merged in main.
 Congratulations! Now, i can push a Git directory into GitHub.
 This line added from cloned PC.
-This line modified by SGT.Amir in First PC!
+SGT.Amir do some negotiation between first and cloned pc and modified this line in full of peace!
