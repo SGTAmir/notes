@@ -1,2 +1,3 @@
 First note.
 Today, I'm learning Git. The second line. 
+It's a new and right line, for test.
