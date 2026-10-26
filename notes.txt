@@ -7,4 +7,3 @@ Congratulations! Now, i can push a Git directory into GitHub.
 This line added from cloned PC.
 SGT.Amir do some negotiation between first and cloned pc and modified this line in full of peace!
 This line added to fix #1 issue.
-This was a big mistake!
